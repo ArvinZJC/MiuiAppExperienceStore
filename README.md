@@ -5,6 +5,6 @@
 
 **English** | [简体中文](https://github.com/ArvinZJC/MiuiAppExperienceStore/blob/main/README-zhCN.md)
 
-(TODO)
+(TODO; Android only)
 
 Please note that the code is licensed under [the GPL-3.0 License](https://github.com/ArvinZJC/MiuiAppExperienceStore/blob/main/LICENSE).

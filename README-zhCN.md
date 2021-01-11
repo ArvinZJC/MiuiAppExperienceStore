@@ -5,6 +5,6 @@
 
 [English](https://github.com/ArvinZJC/MiuiAppExperienceStore/blob/main/README.md) | **简体中文**
 
-(TODO)
+(TODO；仅安卓)
 
 请注意此项目使用[GPL-3.0协议](https://github.com/ArvinZJC/MiuiAppExperienceStore/blob/main/LICENSE)。
